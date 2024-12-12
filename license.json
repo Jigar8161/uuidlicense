@@ -6,6 +6,12 @@
       "expiry_date": "2029-12-31 23:59:59",
       "user_info": "sahil, "
     },
+     {
+      "activated_device_uuid": "BB864980-11CF-11E4-9FFB-C4346B4FA392",
+      "status": "VALID",
+      "expiry_date": "2029-12-31 23:59:59",
+      "user_info": "Art PC, "
+    },
     {
       "activated_device_uuid": "4C4C4544-0031-4310-8051-B3C04F484D32",
       "status": "VALID",
