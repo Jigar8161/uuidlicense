@@ -7,6 +7,12 @@
       "user_info": "Jigar, "
     },
     {
+      "activated_device_uuid": "AF9E6446-F90C-11EB-80F0-902E16B6E640",
+      "status": "VALID",
+      "expiry_date": "2029-12-31 23:59:59",
+      "user_info": "Jigar, "
+    },
+    {
       "activated_device_uuid": "032E02B4-0499-0556-4406-740700080009",
       "status": "VALID",
       "expiry_date": "2029-12-31 23:59:59",
